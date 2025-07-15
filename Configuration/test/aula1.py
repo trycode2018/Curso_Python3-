@@ -1,0 +1,5 @@
+print(123)
+print(12, 34)
+print(56, 78, sep='-')
+print(12, 3, sep='+')
+print(123, end='**')
