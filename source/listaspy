@@ -1,0 +1,18 @@
+numeros = [3,5,6,7,12]
+#adiciona
+numeros.append(12.6)
+print(numeros)
+#ordena
+numeros.sort()
+print(numeros)
+#remove
+numeros.remove(12)
+print(numeros)
+print(numeros.count(12.6))
+#novos
+numeros.insert(0,13)
+print(numeros)
+numeros.reverse()
+print(numeros)
+#numeros.extend(2)
+print(numeros)
